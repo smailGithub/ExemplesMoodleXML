@@ -9,7 +9,7 @@
 	</questiontext>
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
-	<answer fraction="10">
+	<answer fraction="20">
 		<text>Ceci est la bonne réponse</text>
 		<feedback>
 			<text>Bravo !</text>
