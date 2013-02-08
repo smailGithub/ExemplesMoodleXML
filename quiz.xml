@@ -9,7 +9,11 @@
 	</questiontext>
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
+<<<<<<< HEAD
 	<answer fraction="">
+=======
+	<answer fraction="24">
+>>>>>>> e649b691087cc6b0661e580f2dc0cf2c5c5e4669
 		<text>Ceci est la bonne réponse</text>
 		<feedback>
 			<text>Bravo !</text>
